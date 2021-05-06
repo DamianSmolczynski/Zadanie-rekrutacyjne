@@ -1,0 +1,6 @@
+Napisz skrypt w JavaScript, który zadziała w następujący sposób:
+
+Formularz html zawiera trzy pola, imię, nazwisko i adres email. 
+1. Spraw, aby zawartość pola imie i nazwisko po kliknięciu w przycisk "OK" zostały wyświetlone w divie o klasie "name" 
+2. Spraw, aby zawartość pola email znalazła się w divie o klasie "mail" wraz z informacją "Twój adres mailowy jest poprawny" lub "Twój adres mailowy jest błędny". Akcja ma się wydarzyć tuż po opuszczeniu pola email. Zastosuj prostą validację mailową.
+
