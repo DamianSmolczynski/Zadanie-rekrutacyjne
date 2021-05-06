@@ -30,4 +30,4 @@ emailListiner.addEventListener('blur', ()=>
     }
 )
 
-
+// validacja mailowa bedzie potrzebowala odpowiednika od strony servera, aby zapobiegac probom lamania zabezpieczen przy pomocy znakow ASCII np.  " < > % { } | \ ^ `, oraz w przypadku wylaczonej obslugi js u uzytkownika
